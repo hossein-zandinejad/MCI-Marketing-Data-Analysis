@@ -1,7 +1,7 @@
 # MCI Marketing Data Analysis
 Hamrah Aval Marketing Data Analysis Project
 
-![logo](plots/logo)
+![logo](plots/logo.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
